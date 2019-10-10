@@ -1,2 +1,12 @@
 # NoitaQuickSave
 A small program based on AutoHotkey and Python that allows to save and load in the Noita game using F5 and F9 buttons.
+
+To quick save your progress just hit **F5** when in game (the game cannot be paused and inventory cannot be opened).
+
+To load the last quick save hit **F9** at any time.
+
+Enjoy.
+
+I have to credit @Domdomdodo for his NoitaSaveScript script, I have used and modified his script slightly to make the NoitaQuickSave work.
+
+https://github.com/Domdomdodo/NoitaSaveScript/blob/master/LICENSE
