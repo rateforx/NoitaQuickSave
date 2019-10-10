@@ -15,4 +15,4 @@
 
 ### I have to credit @Domdomdodo for his NoitaSaveScript script, I have used and modified his script slightly to make the NoitaQuickSave work.
 
-https://github.com/Domdomdodo/NoitaSaveScript/blob/master/LICENSE
+https://github.com/Domdomdodo/NoitaSaveScript
