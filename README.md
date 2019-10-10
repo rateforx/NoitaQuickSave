@@ -11,4 +11,6 @@
 
 - To load the last quick save hit **F9** at any time.
 
+- You can find and close the tool in the system tray.
+
 - Enjoy.
