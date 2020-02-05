@@ -7,7 +7,7 @@
 
 - Launch either the NoitaQuickSave.exe or NoitaQuickSave.ahk if you have autohotkey installed on your machine.
 
-- To quick save your progress just hit **F5** when in game (the game cannot be paused and inventory cannot be opened).
+- To quick save your progress just hit **F5** when in game.
 
 - To load the last quick save hit **F9** at any time.
 
